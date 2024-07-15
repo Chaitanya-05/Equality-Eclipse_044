@@ -54,7 +54,7 @@ sequelize.sync().then(()=> console.log('mysql db synced'))
  app.use('/api/books', bookRoutes)
  app.get('/',(req,res)=>{
      res.send('This is Book store');
- }
+ })
 //  app.use('/api/customers', customerRoutes),
 //  app.use('/api/orders', orderRoutes)
 //  app.use('/api-docs', swaggerUi.serve,swaggerUi.setup(swaggerSpec));
@@ -65,4 +65,5 @@ app.listen(port, async()=>{
     await connectMongo();
     console.log(`Server is running on port no. ${port}`)
 });
-// module.exports = app;
+
+//module.exports = app;
