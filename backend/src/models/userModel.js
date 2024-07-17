@@ -11,5 +11,3 @@ const userModel = model("users", userSchema);
 
 module.exports = userModel;
 
-//roles -> user , admin, librarain , guest
-// user is logged in but is not an admin 
