@@ -1,8 +1,8 @@
 const express = require("express");
-const connectToDB = require("./config/db");
-const userRouter = require("./routes/userRoutes");
-const bookRouter = require("./routes/bookRoutes");
-const auth = require("./middlewares/auth");
+const connectToDB = require("./src/config/db");
+const userRouter = require("./src/routes/userRoutes");
+const bookRouter = require("./src/routes/bookRoutes");
+const auth = require("./src/middlewares/auth");
 const MongoStore = require("connect-mongo");
 const session = require("express-session");
 require("dotenv").config();
