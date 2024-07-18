@@ -1,15 +1,23 @@
-const { Schema, model } = require("mongoose");
+const express = require('express');
+const mongoose = require('mongoose');
+require('dotenv').config();
 
-const userSchema = new Schema({
-  userName: { type: String, required: true },
-  email: { type: String, required: true },
-  password: { type: String, required: true },
-  role: { type: String, enum: ["user", "admin"], default: "user" },
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+// Middleware
+app.use(express.json());
+
+// Connect to MongoDB
+mongoose.connect(process.env.MONGODB_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+})
+.then(() => console.log('Connected to MongoDB'))
+.catch((err) => console.error('MongoDB connection error:', err));
+
+// Routes (we'll add these later)
+
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
-
-const userModel = model("users", userSchema);
-
-module.exports = userModel;
-
-//roles -> user , admin, librarain , guest
-// user is logged in but is not an admin 
