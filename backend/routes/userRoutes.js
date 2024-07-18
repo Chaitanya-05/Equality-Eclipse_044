@@ -112,5 +112,26 @@ userRouter.post("/login", async (req, res) => {
   }
 });
 
+// userRouter.post("/logout", async (req, res) => {
+//   const token = req.session.token;
+//   console.log(token)
+//   if (!token) {
+//     return res.status(400).json({
+//       message: " token is not provided",
+//     });
+//   }
+
+//   //access the token
+//   // store this token into tokenblaclist collection
+//   try {
+//     const newtoken = new blacklistModel({ token });
+//     await newtoken.save();
+//     res.status(201).json({ message: "user is logged out successfully" });
+
+//     //what will heppend once use logged out that particular token is not valid
+//   } catch (err) {
+//     console.log(err)
+//   }
+// });
 
 module.exports = userRouter;
