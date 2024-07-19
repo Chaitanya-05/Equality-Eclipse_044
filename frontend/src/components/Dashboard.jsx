@@ -5,6 +5,7 @@ const Dashboard = () => {
     <Box p="6">
       <Heading as="h2" size="xl" mb="4">Dashboard</Heading>
       <Text>Welcome to the Learning Management System!</Text>
+      <Text>Experience diffrent categories like never before </Text>
     </Box>
   );
 };

@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <Box bg="blue.500" px={4} py={2}>
       <Flex h={16} alignItems="center" justifyContent="space-between">
-        <Box color="white" fontWeight="bold">Logo</Box>
+        <Box color="white" fontWeight="bold">Learning Management System(LMS)</Box>
         <Flex alignItems="center">
           <Link as={NavLink} to="/" p={2} color="white" _hover={{ textDecoration: 'none' }}>
             Home
