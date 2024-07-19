@@ -7,9 +7,9 @@ const Sidebar = () => {
       <VStack spacing="4" align="stretch">
         <Link as={NavLink} to="/" exact _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Dashboard</Link>
         <Link as={NavLink} to="/courses" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Courses</Link>
-        <Link as={NavLink} to="/login" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Login</Link>
-        <Link as={NavLink} to="/profile" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Profile</Link>
-        <Link as={NavLink} to="/signup" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Signup</Link>
+        <Link as={NavLink} to="/login" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Assignments</Link>
+        <Link as={NavLink} to="/profile" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Announcements</Link>
+        <Link as={NavLink} to="/signup" _activeLink={{ fontWeight: 'bold', color: 'teal.500' }}>Practice</Link>
       </VStack>
     </Box>
   );
