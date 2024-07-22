@@ -120,9 +120,16 @@ Before running this project locally, ensure you have the following installed:
 - [Cloudinary](https://cloudinary.com/) account and API credentials
 - [Razorpay](https://razorpay.com/) account and API credentials
 
-## Contributing
+<h2 align="center">Author</h2>
 
-We welcome contributions to Learning Management System  Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.
+- **GitHub**: [Chaitanya Dakhale](https://github.com/Chaitanya-05)
+- **LinkedIn**: [Chaitanya	Dakhale](https://www.linkedin.com/in/chaitanyadakhale/)
+
+- **GitHub**: [Soumyadeep Dutta](https://github.com/soumyadeepdutta7)
+- **LinkedIn**: [Soumyadeep Dutta](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/)
+
+- **GitHub**: [Amrit Pal](https://github.com/rmauryaa)
+- **LinkedIn**: [Amrit Pal	](https://www.linkedin.com/in/rmaurya/)
 
 ## Further-Support
 
