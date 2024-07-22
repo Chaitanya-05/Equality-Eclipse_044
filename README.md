@@ -128,8 +128,8 @@ Before running this project locally, ensure you have the following installed:
 - **GitHub**: [Soumyadeep Dutta](https://github.com/soumyadeepdutta7)
 - **LinkedIn**: [Soumyadeep Dutta](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/)
 
-- **GitHub**: [Amrit Pal](https://github.com/rmauryaa)
-- **LinkedIn**: [Amrit Pal	](https://www.linkedin.com/in/rmaurya/)
+- **GitHub**: [Amrit Pal](https://github.com/Amrit-786)
+- **LinkedIn**: [Amrit Pal	](https://www.linkedin.com/in/amrit-pal-singh-18a072252)
 
 ## Further-Support
 
