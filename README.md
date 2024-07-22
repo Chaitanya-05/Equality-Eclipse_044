@@ -136,7 +136,7 @@ Before running this project locally, ensure you have the following installed:
 If you encounter any issues or have questions, feel free to raise them as GitHub issues, and we'll be happy to assist you.
 
 
-<h2 align="center">Include screenshots as necessary.</h2>
+<h2 align="center">Overview Image </h2>
 
 ![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/1.png)
 
@@ -152,4 +152,13 @@ If you encounter any issues or have questions, feel free to raise them as GitHub
 
 ![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/7.png)
 
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/2.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/3.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/4.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/5.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/7.png)
 
