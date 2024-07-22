@@ -142,4 +142,13 @@ If you encounter any issues or have questions, feel free to raise them as GitHub
 
 ![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/2.png)
 
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/3.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/4.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/5.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/6.png)
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/7.png)
 
