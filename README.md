@@ -138,6 +138,6 @@ If you encounter any issues or have questions, feel free to raise them as GitHub
 
 <h2 align="center">Include screenshots as necessary.</h2>
 
-![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/assets/Screenshot/1.png)
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/Client/src/assets/Screenshot/1.png)
 
 
