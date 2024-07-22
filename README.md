@@ -134,3 +134,10 @@ Before running this project locally, ensure you have the following installed:
 ## Further-Support
 
 If you encounter any issues or have questions, feel free to raise them as GitHub issues, and we'll be happy to assist you.
+
+
+<h2 align="center">Include screenshots as necessary.</h2>
+
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/assets/Screenshot/1.png)
+
+
