@@ -35,7 +35,7 @@ The Learning Management System (LMS) is a web-based application that facilitates
  Clone the project 
 
 ```bash
-git@github.com:Princegupta101/Larning-Management-System.git
+https://github.com/Chaitanya-05/Equality-Eclipse_044.git
 ```
 
 ### Setup instruction  for Frontend
