@@ -140,4 +140,6 @@ If you encounter any issues or have questions, feel free to raise them as GitHub
 
 ![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/1.png)
 
+![image](https://github.com/Chaitanya-05/Equality-Eclipse_044/blob/main/Client/src/Assets/Screenshot/2.png)
+
 
