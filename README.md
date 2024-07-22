@@ -4,7 +4,7 @@ This repository contains the source code and implementation of a Learning Manage
 
 ## VIDEO 
 
-https://youtu.be/T8YZitqdlEY
+https://youtu.be/rhU94MNr1_s
 
 ## Table of Contents
 
