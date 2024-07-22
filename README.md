@@ -35,7 +35,7 @@ The Learning Management System (LMS) is a web-based application that facilitates
  Clone the project 
 
 ```bash
-git@github.com:Princegupta101/Larning-Management-System.git
+https://github.com/Chaitanya-05/Equality-Eclipse_044.git
 ```
 
 ### Setup instruction  for Frontend
@@ -120,9 +120,16 @@ Before running this project locally, ensure you have the following installed:
 - [Cloudinary](https://cloudinary.com/) account and API credentials
 - [Razorpay](https://razorpay.com/) account and API credentials
 
-## Contributing
+<h2 align="center">Author</h2>
 
-We welcome contributions to Learning Management System  Feel free to create pull requests with your enhancements or bug fixes. Please ensure your contributions adhere to the coding style and conventions used in the project.
+- **GitHub**: [Chaitanya Dakhale](https://github.com/Chaitanya-05)
+- **LinkedIn**: [Chaitanya	Dakhale](https://www.linkedin.com/in/chaitanyadakhale/)
+
+- **GitHub**: [Soumyadeep Dutta](https://github.com/soumyadeepdutta7)
+- **LinkedIn**: [Soumyadeep Dutta](https://www.linkedin.com/in/soumyadeep-dutta-b142581a1/)
+
+- **GitHub**: [Amrit Pal](https://github.com/Amrit-786)
+- **LinkedIn**: [Amrit Pal	](https://www.linkedin.com/in/amrit-pal-singh-18a072252)
 
 ## Further-Support
 
